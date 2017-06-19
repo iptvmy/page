@@ -18,7 +18,7 @@ body {
 
 header	{
 	float: left;
-	background-color: #4aaaa5;
+	background-color: #000000;
 	border-bottom: none;
 	color: #ffffff;
 	height: 100%;
@@ -291,7 +291,7 @@ footer {
 	/* Ful width name header. */
 	header	{
 		float: left;
-		background-color: #4aaaa5;
+		background-color: #000000;
 		border-bottom: none;
 		color: #ffffff;
 		height: 100%;
