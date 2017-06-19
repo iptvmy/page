@@ -135,7 +135,7 @@ footer {
 
 .header-container {
 	border-bottom: 2px solid #cccccc;
-	background-color: red;
+	background-color: #ffffff;
 	height: 60px;
 }
 
@@ -293,7 +293,7 @@ footer {
 		float: left;
 		background-color: #000000;
 		border-bottom: none;
-		color: #ffffff;
+		color: red;
 		height: 100%;
 		width: 100%;
 		margin-bottom: 0;
